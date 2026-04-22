@@ -60,23 +60,9 @@ Microsoft-365-User-Support-Lab/
     └── ticket-07-access-updated.png
 ```
 
-
- ## Tickets Documented
-
-| Ticket | Scenario | Skills Demonstrated |
-|---|---|---|
-| [Ticket 01](tickets/ticket-01-new-user-setup.md) | New User Setup | User provisioning, license assignment, onboarding support |
-| [Ticket 02](tickets/ticket-02-password-reset.md) | Password Reset and Sign-in Support | Password reset, sign-in troubleshooting, account support |
-| [Ticket 03](tickets/ticket-03-license-assignment.md) | License Assignment Issue | License troubleshooting, app access, Outlook validation |
-| [Ticket 04](tickets/ticket-04-mfa-authentication-methods.md) | MFA / Authentication Methods Support | MFA reset, authentication methods, Entra admin support |
-| [Ticket 05](tickets/ticket-05-shared-mailbox-access.md) | Shared Mailbox Access | Mailbox delegation, shared mailbox access, Outlook validation |
-| [Ticket 06](tickets/ticket-06-teams-access-issue.md) | Teams Access Issue | Microsoft 365 group membership, Teams access support |
-| [Ticket 07](tickets/ticket-07-onedrive-sharepoint-permission-issue.md) | OneDrive / SharePoint Permission Issue | File access troubleshooting, sharing permissions |
-
-
 ## Tickets Documented
 
-| Ticket | Scenario | Skills Demonstrated |
+| Ticket | Scenario | Support Work Performed |
 |---|---|---|
 | [Ticket 01](tickets/ticket-01-new-user-setup.md) | New User Setup and Microsoft 365 Onboarding | User creation, license assignment, initial access validation, onboarding support |
 | [Ticket 02](tickets/ticket-02-password-reset.md) | Password Reset and Sign-in Troubleshooting | Password reset, account recovery, sign-in troubleshooting, user communication |
