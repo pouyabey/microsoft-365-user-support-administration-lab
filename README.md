@@ -68,7 +68,7 @@ Microsoft-365-User-Support-Lab/
 | [Ticket 01](tickets/ticket-01-new-user-setup.md) | New User Setup | User provisioning, license assignment, onboarding support |
 | [Ticket 02](tickets/ticket-02-password-reset.md) | Password Reset and Sign-in Support | Password reset, sign-in troubleshooting, account support |
 | [Ticket 03](tickets/ticket-03-license-assignment.md) | License Assignment Issue | License troubleshooting, app access, Outlook validation |
-| [Ticket 04](tickets/ticket-04-mfa-authentication-methods-support.md) | MFA / Authentication Methods Support | MFA reset, authentication methods, Entra admin support |
+| [Ticket 04](tickets/ticket-04-mfa-authentication-methods.md) | MFA / Authentication Methods Support | MFA reset, authentication methods, Entra admin support |
 | [Ticket 05](tickets/ticket-05-shared-mailbox-access.md) | Shared Mailbox Access | Mailbox delegation, shared mailbox access, Outlook validation |
 | [Ticket 06](tickets/ticket-06-teams-access-issue.md) | Teams Access Issue | Microsoft 365 group membership, Teams access support |
 | [Ticket 07](tickets/ticket-07-onedrive-sharepoint-permission-issue.md) | OneDrive / SharePoint Permission Issue | File access troubleshooting, sharing permissions |
