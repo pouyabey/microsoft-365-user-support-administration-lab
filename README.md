@@ -78,13 +78,9 @@ Microsoft-365-User-Support-Lab/
 
 This project demonstrates practical Microsoft 365 support tasks used in real help desk and system support environments. Each ticket includes a user-reported issue, admin troubleshooting steps, resolution, skills demonstrated, and supporting screenshots.
 
-نکته مهم: چون داخل README اصلی یک code block برای Project Structure داری، دقت کن که در GitHub سه تا بک‌تیک اول و آخر درست بسته شده باشد.
 
 ---
 
-
-
-برای README اصلی، لازم نیست خیلی زیاد screenshot بگذاری. فقط ۲ یا ۳ تا کافی است:
 
 ```text
 main-admin-center-dashboard.png
