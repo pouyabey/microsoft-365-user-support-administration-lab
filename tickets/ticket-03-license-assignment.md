@@ -46,6 +46,4 @@ The user was assigned the required Microsoft 365 license, and Outlook access was
 
 ![License assigned](../screenshots/ticket-03-license-assigned.png)
 
-![Apps enabled](../screenshots/ticket-03-apps-enabled.png)
-
 ![Outlook validation](../screenshots/ticket-03-outlook-validation.png)
