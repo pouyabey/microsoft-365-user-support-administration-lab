@@ -82,7 +82,7 @@ This project demonstrates practical Microsoft 365 support tasks used in real hel
 
 ---
 
-# اسکرین‌شات‌های صفحه اصلی پروژه
+
 
 برای README اصلی، لازم نیست خیلی زیاد screenshot بگذاری. فقط ۲ یا ۳ تا کافی است:
 
